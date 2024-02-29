@@ -5,6 +5,7 @@ using std::endl;
 
 int main()
 {
+	/* O ano deve ser inserido na variável abaixo */
     int iAno = 2024;
     
     if (iAno % 4 == 0 && iAno % 100 != 0)
